@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: rgb(194, 201, 199);
+    margin: 0;
+    padding: 20px;
+}
+
+
+
+
+input, button {
+    margin: 5px;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+button {
+    background-color: rgb(51, 113, 51);
+    color: azure;
+    cursor: pointer;
+}
